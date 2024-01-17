@@ -1,0 +1,28 @@
+{
+  "name": "test-docker-kpp",
+  "version": "1.0.0",
+  "description": "Generic API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarloPry/test-docker-kpp.git"
+  },
+  "keywords": [
+    "API",
+    "REST",
+    "Docker"
+  ],
+  "author": "Karlo Paz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarloPry/test-docker-kpp/issues"
+  },
+  "homepage": "https://github.com/KarloPry/test-docker-kpp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
